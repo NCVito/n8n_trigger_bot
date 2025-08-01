@@ -1,0 +1,2 @@
+id,channel_id,webhook_url,guild_id,failure_count,last_failure_at,is_active,disabled_reason,created_at,updated_at
+5,"1400488795341848717","https://n8n.thevitohouse.com/webhook/discord-pa","1144682746237702344",0,,true,,Thu Jul 31 2025 14:43:08 GMT-0400 (Eastern Daylight Time),Thu Jul 31 2025 19:55:20 GMT-0400 (Eastern Daylight Time)
